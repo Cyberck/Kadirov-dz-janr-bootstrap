@@ -1,0 +1,75 @@
+@import url(fonts.css);
+
+
+.header {
+  height: 166px;
+  background: #C4C4C4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header h1 {
+  color: #000;
+  font-family: 'RR';
+  font-size: 64px;
+  line-height: 75px;
+}
+
+.main {
+  margin-top: 61px;
+  background: #FFF;
+}
+
+.main-content {
+	display: flex;
+	justify-content: space-between;
+}
+.left h2 {
+  text-align: center;
+  color: #000;
+  font-family: 'RR';
+  font-size: 64px;
+  line-height: 75px;
+  padding: 187px 0px 186px 0px;
+  background: #C4C4C4;
+}
+
+.right {
+  background: #C4C4C4;
+  padding-top: 68px;
+  padding-left: 73px;
+  padding-right: 80px;
+  padding-bottom: 187px;
+}
+
+.right-title {
+  color: #000;
+  font-family: 'RR';
+  font-size: 36px;
+  line-height: 42px;
+	margin-bottom: 32px;
+}
+
+.right h2 {
+  color: #000;
+  text-align: justify;
+  font-family: 'RR';
+  font-size: 24px;
+  line-height: 28px;
+}
+
+
+.footer {
+  background: #C4C4C4;
+  padding: 68px 0 69px 0;
+  margin-top: 83px;
+  text-align: center;
+}
+
+.footer-title {
+  color: #000;
+  font-family: 'RR';
+  font-size: 64px;
+  line-height: 75px;
+}
